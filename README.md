@@ -3,7 +3,7 @@
 ## "On the Evolution of Mental Representations underpinning Transitive Inference"
 
 written at 
-Max Planck Institute for Human Development, supervised by Juan Linde-Domingo
+Max Planck Institute for Human Development, supervised by Juan Linde-Domingo and
 Medical School Brandenburg, supervised by Patrick Khader
 
 
