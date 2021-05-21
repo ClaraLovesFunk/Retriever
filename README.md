@@ -6,7 +6,7 @@ written at
 Max Planck Institute for Human Development, supervised by Juan Linde-Domingo and
 Medical School Brandenburg, supervised by Patrick Khader
 
-*If you are reviewing my application for M.Sc. Cognitive Systems: Hello! Maybe check out "Analysis" first :)*
+*if you are reviewing my application for M.Sc. Cognitive Systems: Hello! Maybe check out "Analysis" first :)*
 
 here you find: 
 
