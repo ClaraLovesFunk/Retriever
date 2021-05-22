@@ -10,7 +10,7 @@ Medical School Brandenburg, supervised by Patrick Khader
 
 here you find: 
 
-1. Paradigm: the thesis' underlying online experiment, created with PsychoPy3 and (a lot of) Python
+1. Experiment: the thesis' underlying online experiment, created with PsychoPy3 and (a lot of) Python
 2. Stimuli: stimuli sequences (called "BIG") created and checked with MATLAB
 3. Analysis: the analyses of reaction times (RT) and accuracy (ACC) shown in the behavioral data using MATLAB
 4. Thesis: my thesis
