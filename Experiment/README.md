@@ -1,6 +1,6 @@
 # Behavioral experiment Retriever TI
 
-*if you are reviewing my application for a Master Program: Hello! Maybe first check out my Matlab Analysis :) If you want to check the self-written Python code for experiment generation without seeing the automatically created one by PsychoPy3, you can download PsychoPy3 (https://www.psychopy.org/download.html), open "retriever_ti.psyexp" with it and check out the numerous "code components"*
+*if you are reviewing my application for a master program: hello! maybe first check out my matlab analyses :) if you want to check the self-written Python code for experiment generation without seeing the automatically created one by PsychoPy3, you can download PsychoPy3 (https://www.psychopy.org/download.html), open "retriever_ti.psyexp" with it and check out the numerous "code components"*
 
 **Structure of the repository files**
 *  /data is where the output files get stored when running the experiment (here deleted for data protection)
